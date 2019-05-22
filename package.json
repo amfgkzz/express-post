@@ -1,17 +1,17 @@
 {
   "name": "express-post-5-22",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "main": "server/server.js",
   "dependencies": {
     "express": "^4.17.0"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "npm start"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
